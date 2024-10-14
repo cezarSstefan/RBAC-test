@@ -1,11 +1,11 @@
 {
-	"id": "eb92ba90-5285-ef11-bdfd-000d3ab845f6",
+	"id": "eb92ba90-5285-ef11-bdfd-000d3ab845f5",
 	"createdAt": "2024-10-08T08:51:54.376Z",
 	"createdBy": "cezar.strugariu@neptune-software.com",
 	"git": {
 		"remote": "https://github.com/cezarSstefan/RBAC-test"
 	},
-	"name": "2404-testing-package-import",
+	"name": "2404-testing-package",
 	"description": null,
 	"ver": "24.10.14.1444",
 	"enableCICD": true,
