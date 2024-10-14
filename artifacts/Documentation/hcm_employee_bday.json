@@ -1,0 +1,21 @@
+{
+	"id": "9d8b1a28-7770-ef11-bdfd-000d3ad9cd61",
+	"createdAt": "2024-09-11T19:50:55.826Z",
+	"createdBy": "rommel",
+	"content": [
+		{
+			"id": "7755fcbb-5ed7-4937-d1f7-ece6340ac67a",
+			"parent": "",
+			"sort": 0,
+			"type": "doc",
+			"content": "<p><br></p>",
+			"typeWidth": "px",
+			"typeHeight": "px",
+			"icon": "",
+			"title": "test"
+		}
+	],
+	"application": "hcm_employee_bday",
+	"ver": "24.10.08.0859",
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5"
+}

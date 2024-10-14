@@ -1,0 +1,21 @@
+{
+	"id": "5d7b7554-5585-ef11-bdfd-000d3ab845f5",
+	"createdAt": "2024-10-08T09:11:41.753Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"name": "test_SG",
+	"description": null,
+	"ver": "24.10.08.0912",
+	"parent": null,
+	"isExternal": false,
+	"idpSource": "local",
+	"idpSourceId": null,
+	"idpSourceKey": null,
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5",
+	"roles": [
+		{
+			"id": "29fb0de4-c31a-ec11-ae72-dc9840105a9f",
+			"name": "FieldWorkers",
+			"ver": "23.2.15.848"
+		}
+	]
+}

@@ -1,0 +1,278 @@
+{
+	"id": "eb92ba90-5285-ef11-bdfd-000d3ab845f5",
+	"createdAt": "2024-10-08T08:51:54.376Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/cezarSstefan/RBAC-test"
+	},
+	"name": "2404-testing-package",
+	"description": null,
+	"ver": "24.10.14.1443",
+	"enableCICD": true,
+	"excludeTemplateFiles": false,
+	"roles": [
+		{
+			"id": "1DE13678-5685-EF11-BDFD-000D3AB845F5",
+			"createdAt": "2024-10-08T09:19:51.250Z",
+			"updatedAt": "2024-10-08T09:20:23.139Z",
+			"createdBy": "cezar.strugariu@neptune-software.com",
+			"changedBy": "cezar.strugariu@neptune-software.com",
+			"name": "2404 - READ",
+			"description": null,
+			"ver": "24.10.08.0920",
+			"isGlobalAdmin": false,
+			"package": null,
+			"verb": "READ"
+		},
+		{
+			"id": "8153BB1E-E6BA-EE11-B661-0022489F9DFA",
+			"createdAt": "2024-01-24T18:26:42.656Z",
+			"updatedAt": "2024-10-11T15:30:55.292Z",
+			"createdBy": "admin",
+			"changedBy": "lloyd.trevarthen@neptune-software.com",
+			"name": "Admin",
+			"description": null,
+			"ver": "24.10.11.1530",
+			"isGlobalAdmin": false,
+			"package": "EB92BA90-5285-EF11-BDFD-000D3AB845F5",
+			"verb": "EDIT"
+		}
+	],
+	"accessLevel": "READ",
+	"apps": [
+		{
+			"id": "918b732e-8881-ef11-bdfd-000d3ab845f5",
+			"application": "ai_chart_test",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [
+		{
+			"id": "46df3b64-5485-ef11-bdfd-000d3ab845f5",
+			"name": "employee_table_test",
+			"description": null,
+			"apiGroup": null
+		}
+	],
+	"odataSource": [
+		{
+			"id": "1b37ec1f-90be-ee11-85f9-0022489f935c",
+			"name": "Test",
+			"description": null,
+			"apiGroup": null
+		}
+	],
+	"odataMock": [
+		{
+			"id": "ba75af14-fa7f-ef11-bdfd-000d3ab845f5",
+			"name": "test4063",
+			"description": null
+		}
+	],
+	"dictionary": [
+		{
+			"id": "309bae78-0a71-ef11-bdfd-000d3ab842fa",
+			"name": "table_employees_cezar",
+			"description": "test_3498"
+		}
+	],
+	"jsclass": [
+		{
+			"id": "d582c1f8-7981-ef11-bdfd-000d3ab845f5",
+			"name": "Test",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "d382c1f8-7981-ef11-bdfd-000d3ab845f5",
+			"name": "Test_Cezar",
+			"description": ""
+		}
+	],
+	"theme": [
+		{
+			"id": "b8d012e7-5385-ef11-bdfd-000d3ab845f5",
+			"name": "test_C",
+			"description": null
+		}
+	],
+	"pdf": [
+		{
+			"id": "1cbcaf2a-98f1-ee11-aaf0-000d3addd0b5",
+			"application": "test",
+			"description": ""
+		}
+	],
+	"rulesengine": [
+		{
+			"id": "455e1615-5385-ef11-bdfd-000d3ab845f5",
+			"name": "Test_rule",
+			"description": ""
+		}
+	],
+	"reports": [
+		{
+			"id": "def1db0a-5b96-ed11-9f5f-0022489f9819",
+			"name": "profit_by_region",
+			"description": "",
+			"application": "planet9_adaptive_tile_chart"
+		}
+	],
+	"api_authentication": [
+		{
+			"id": "1b600b97-08c5-ee11-85f9-0022489f935c",
+			"name": "Auth 2.0",
+			"description": null
+		}
+	],
+	"api_group": [
+		{
+			"id": "81912b60-e870-ef11-bdfd-000d3ab842fa",
+			"name": "test",
+			"description": null
+		}
+	],
+	"tile": [
+		{
+			"id": "f9e89f3c-0b71-ef11-bdfd-000d3ab842fa",
+			"description": null,
+			"name": "Tile-Cezar"
+		}
+	],
+	"tile_layout": [
+		{
+			"id": "43f1ed12-5485-ef11-bdfd-000d3ab845f5",
+			"NAME": "test_C_tile"
+		}
+	],
+	"category": [
+		{
+			"id": "342c18c4-8781-ef11-bdfd-000d3ab845f5",
+			"description": null,
+			"name": "View_Equipment"
+		}
+	],
+	"tilegroup_layout": [
+		{
+			"id": "c8a0e52f-a171-ef11-bdfd-000d3ab842fa",
+			"NAME": "LloydTest"
+		}
+	],
+	"launchpad": [
+		{
+			"id": "f825e601-0c71-ef11-bdfd-000d3ab842fa",
+			"name": "Cezar_Launchpad_test1",
+			"description": null
+		}
+	],
+	"launchpad_layout": [
+		{
+			"id": "6702181a-0e71-ef11-bdfd-000d3ab842fa",
+			"NAME": "Cezar-Test-Layout",
+			"DESCR": null
+		}
+	],
+	"certificates": [
+		{
+			"id": "58a7d718-3ebc-ee11-85f9-0022489f935c",
+			"name": "Certificate 1",
+			"description": null
+		}
+	],
+	"role": [
+		{
+			"id": "8153bb1e-e6ba-ee11-b661-0022489f9dfa",
+			"name": "Admin",
+			"description": null
+		}
+	],
+	"systems": [
+		{
+			"id": "bb20054a-8b7a-ef11-bdfd-000d3ab845f5",
+			"name": "P9 Local",
+			"description": null
+		},
+		{
+			"id": "4814eac6-9079-ef11-bdfd-000d3ab845f5",
+			"name": "sys_3977_create",
+			"description": null
+		}
+	],
+	"doc": [
+		{
+			"id": "9d8b1a28-7770-ef11-bdfd-000d3ad9cd61",
+			"application": "hcm_employee_bday"
+		}
+	],
+	"wf_notifications": [
+		{
+			"id": "638d4034-5485-ef11-bdfd-000d3ab845f5",
+			"name": "test_c",
+			"description": "Test"
+		}
+	],
+	"department": [
+		{
+			"id": "5d7b7554-5585-ef11-bdfd-000d3ab845f5",
+			"name": "test_SG",
+			"description": null
+		}
+	],
+	"script_scheduler": [
+		{
+			"id": "7ffacd31-5585-ef11-bdfd-000d3ab845f5",
+			"name": "Test_job",
+			"description": null
+		}
+	],
+	"wf_definition": [
+		{
+			"id": "eeef71db-1971-ef11-bdfd-000d3ab842fa",
+			"title": "test",
+			"subTitle": null
+		},
+		{
+			"id": "c90c723a-682f-ed11-a27c-0050f27989a1",
+			"title": "Inspection Approval",
+			"subTitle": null
+		}
+	],
+	"connector": [
+		{
+			"id": "bdc6a803-ebf0-ee11-aaf0-000d3ab9651a",
+			"name": "city_connector",
+			"description": "Test"
+		}
+	],
+	"events": [
+		{
+			"id": "5479b6a5-6370-ef11-bdfd-000d3ad9cd61",
+			"name": "Test",
+			"description": null
+		}
+	],
+	"code_snippets": [
+		{
+			"id": "7eeb3e40-5385-ef11-bdfd-000d3ab845f5",
+			"name": "Test",
+			"description": null
+		}
+	],
+	"wf_determination": [
+		{
+			"id": "8ffb1515-f8fc-450d-b751-9d519470e39f",
+			"name": "eLearning-Inspection Approvers",
+			"description": null
+		}
+	],
+	"wf_taskaction": [
+		{
+			"id": "90da28be-1e6e-46bb-a1df-2549d26ccb61",
+			"name": "eLearning-Inspection Approve",
+			"description": null
+		}
+	],
+	"theme_ui5": []
+}

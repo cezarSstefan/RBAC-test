@@ -1,0 +1,23 @@
+{
+	"id": "4814eac6-9079-ef11-bdfd-000d3ab845f5",
+	"createdAt": "2024-09-23T09:47:08.520Z",
+	"createdBy": "david.ferreira@neptune-software.com",
+	"auth": [],
+	"endpoints": [],
+	"url": "https://something",
+	"name": "sys_3977_create",
+	"ver": "24.10.08.0913",
+	"description": null,
+	"role": null,
+	"username": null,
+	"password": "",
+	"type": "",
+	"sapClient": null,
+	"useClientDeploy": false,
+	"token": "",
+	"monitoringName": null,
+	"monitoringEnabled": false,
+	"tlsAllowUntrusted": false,
+	"preRequestHookId": null,
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5"
+}

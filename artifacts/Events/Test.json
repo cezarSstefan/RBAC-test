@@ -1,0 +1,15 @@
+{
+	"id": "5479b6a5-6370-ef11-bdfd-000d3ad9cd61",
+	"createdAt": "2024-09-11T17:31:16.620Z",
+	"createdBy": "rommel",
+	"name": "Test",
+	"description": null,
+	"eventAction": "JobEvent",
+	"scriptId": null,
+	"jobId": null,
+	"workflowId": null,
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5",
+	"script": null,
+	"job": null,
+	"workflow": null
+}

@@ -1,0 +1,12 @@
+{
+	"id": "638d4034-5485-ef11-bdfd-000d3ab845f5",
+	"createdAt": "2024-10-08T09:03:38.230Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"translation": null,
+	"name": "test_c",
+	"description": "Test",
+	"content": "<p>Dear {=customer},</p><p>Thank you for your interest in our products.</p><p>Regards,</p><p>{=company}</p>",
+	"ver": "24.10.08.0904",
+	"type": "template",
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5"
+}

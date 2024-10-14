@@ -1,0 +1,93 @@
+{
+	"id": "918b732e-8881-ef11-bdfd-000d3ab845f5",
+	"createdAt": "2024-10-03T13:06:40.726Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "b19b4083-868a-4e28-81c0-161632feef3f",
+			"fieldName": "Page",
+			"fieldParent": 0,
+			"fieldType": "sap.m.Page",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "2cb491dc-d955-4b04-d9be-56ddb5143df8",
+					"fieldName": "AIChart",
+					"fieldParent": "b19b4083-868a-4e28-81c0-161632feef3f",
+					"fieldType": "neptune.chart.aichart",
+					"script": "",
+					"customComponent": false,
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "afterRendering",
+							"grouping": "Events",
+							"value": "Anonymous Function",
+							"script": "file://event/neptune.chart.aichart/AIChart/afterRendering.js",
+							"language": "javascript",
+							"translation": []
+						}
+					],
+					"data": []
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": []
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "24.10.11.1323",
+	"application": "ai_chart_test",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_horizon",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"compiledCss": null,
+	"header": "<script src=\"https://code.highcharts.com/highcharts.js\"></script>",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": true,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"generateVersionOnActivation": false,
+	"activationHistoryCount": 0,
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5",
+	"apis": []
+}

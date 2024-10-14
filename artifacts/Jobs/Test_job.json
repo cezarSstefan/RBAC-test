@@ -1,0 +1,31 @@
+{
+	"id": "7ffacd31-5585-ef11-bdfd-000d3ab845f5",
+	"createdAt": "2024-10-08T09:10:43.620Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"scripts": [
+		{
+			"id": "D582C1F8-7981-EF11-BDFD-000D3AB845F5",
+			"name": "Test",
+			"number": 1,
+			"abort": true,
+			"continue": false,
+			"skipto": false
+		}
+	],
+	"name": "Test_job",
+	"description": null,
+	"alertEmail": null,
+	"active": false,
+	"intervalMonths": null,
+	"intervalDays": 5,
+	"intervalHours": null,
+	"intervalMinutes": null,
+	"intervalSeconds": null,
+	"maxRuntimeSeconds": "0",
+	"restartMaxRuntimeAbort": false,
+	"startdate": "2024-10-08T09:08:52.000Z",
+	"stopdate": "2024-10-08T09:08:52.000Z",
+	"executeInNextCycle": false,
+	"ver": "24.10.08.0910",
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5"
+}

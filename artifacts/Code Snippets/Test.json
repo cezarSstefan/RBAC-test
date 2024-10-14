@@ -1,0 +1,33 @@
+{
+	"id": "7eeb3e40-5385-ef11-bdfd-000d3ab845f5",
+	"createdAt": "2024-10-08T08:56:48.843Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"metadata": [],
+	"name": "Test",
+	"description": null,
+	"group": "test",
+	"content": [
+		"==OBJECT STRING==",
+		"function isPrime(number) {",
+		"    // Check if number is less than 2, which are not prime numbers",
+		"    if (number <= 1) return false;",
+		"",
+		"    // Check for factors from 2 to the square root of the number",
+		"    for (let i = 2; i <= Math.sqrt(number); i++) {",
+		"        if (number % i === 0) {",
+		"            return false; // Number is divisible by i, hence not prime",
+		"        }",
+		"    }",
+		"",
+		"    return true; // Number has no divisors, hence it is prime",
+		"}",
+		"",
+		"// Example usage:",
+		"console.log(isPrime(11)); // Output: true",
+		"console.log(isPrime(18)); // Output: false",
+		""
+	],
+	"enableIDE": false,
+	"enableServerScript": false,
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5"
+}

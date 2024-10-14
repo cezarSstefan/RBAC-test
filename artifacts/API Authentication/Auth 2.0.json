@@ -1,0 +1,26 @@
+{
+	"id": "1b600b97-08c5-ee11-85f9-0022489f935c",
+	"createdAt": "2024-02-06T15:58:38.963Z",
+	"createdBy": "playwright",
+	"headers": [],
+	"details": {
+		"subject": {},
+		"headers": [],
+		"url": "https://p9latest.neptune-software.cloud",
+		"password": "",
+		"secret": ""
+	},
+	"azureRelayDetails": {
+		"ns": "",
+		"hcName": "",
+		"apName": "",
+		"apKey": ""
+	},
+	"name": "Auth 2.0",
+	"description": null,
+	"type": "oauth2",
+	"useCloudConnector": false,
+	"cloudConnectorType": null,
+	"ver": "24.10.08.0915",
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5"
+}

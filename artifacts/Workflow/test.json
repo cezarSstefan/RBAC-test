@@ -1,0 +1,50 @@
+{
+	"id": "eeef71db-1971-ef11-bdfd-000d3ab842fa",
+	"createdAt": "2024-09-12T15:15:38.750Z",
+	"createdBy": "vasco.silverio@neptune-software.com",
+	"tasks": [],
+	"translation": [],
+	"flowEditor": {
+		"objects": [
+			{
+				"id": "object-cc431413-0cec-4eb5-cab7-93e374641ee8",
+				"name": "Start",
+				"description": "",
+				"templateId": "Start",
+				"templateName": "Start",
+				"typeCSS": "start",
+				"typeImage": "start",
+				"group": "",
+				"input": [],
+				"object": {},
+				"output": [
+					{
+						"name": "output",
+						"value": "",
+						"grouping": "Output",
+						"parent": "Output",
+						"show_script": false,
+						"show_label": false,
+						"show_button": false,
+						"id": "output-87a77635-a292-4cf8-df6c-d4b307e99a20"
+					}
+				],
+				"connections": [],
+				"posX": 450,
+				"posY": 100
+			}
+		],
+		"connections": []
+	},
+	"title": "test",
+	"subTitle": null,
+	"daysUntilOverdue": null,
+	"daysNotificationInterval": null,
+	"enableNotifications": false,
+	"omitFriday": false,
+	"omitSaturday": false,
+	"omitSunday": false,
+	"icon": null,
+	"ver": "24.10.08.0915",
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5"
+}

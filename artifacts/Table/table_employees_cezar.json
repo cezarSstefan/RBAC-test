@@ -1,0 +1,36 @@
+{
+	"id": "309bae78-0a71-ef11-bdfd-000d3ab842fa",
+	"createdAt": "2024-09-12T13:25:28.130Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"fields": [
+		{
+			"id": "5bcd5691-b4a7-44fb-e2c3-4f994282a971",
+			"fieldName": "firstName",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "75ec92c1-2fa9-48a8-e21b-5f50e131aa6d",
+			"fieldName": "lastName",
+			"fieldType": "text",
+			"isUnique": false
+		},
+		{
+			"id": "9895a360-c0ab-4340-8163-cd8037e8d77c",
+			"fieldName": "department",
+			"fieldType": "text",
+			"isUnique": false
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "table_employees_cezar",
+	"description": "test_3498",
+	"ver": "24.10.08.0909",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5",
+	"generationStrategy": "uuid",
+	"rolesRead": [],
+	"rolesWrite": []
+}

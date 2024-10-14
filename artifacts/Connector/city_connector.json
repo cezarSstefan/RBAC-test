@@ -1,0 +1,20 @@
+{
+	"id": "bdc6a803-ebf0-ee11-aaf0-000d3ab9651a",
+	"createdAt": "2024-04-02T12:17:47.440Z",
+	"createdBy": "rommel",
+	"settings": {
+		"hasDocumentation": true,
+		"tableid": "b7d5b7da-eaf0-ee11-aaf0-000d3ab9651a",
+		"previewable": true
+	},
+	"documentation": {
+		"content": "<p><strong>This is a sample connector!</strong></p>"
+	},
+	"name": "city_connector",
+	"description": "Test",
+	"group": null,
+	"type": "T",
+	"ver": "24.10.08.0906",
+	"disabled": false,
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5"
+}

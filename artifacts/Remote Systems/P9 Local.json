@@ -1,0 +1,23 @@
+{
+	"id": "bb20054a-8b7a-ef11-bdfd-000d3ab845f5",
+	"createdAt": "2024-09-24T15:40:14.283Z",
+	"createdBy": "rommel@neptune-software.com",
+	"auth": [],
+	"endpoints": [],
+	"url": "http://localhost:8081",
+	"name": "P9 Local",
+	"ver": "24.10.08.0914",
+	"description": null,
+	"role": null,
+	"username": null,
+	"password": "",
+	"type": "",
+	"sapClient": null,
+	"useClientDeploy": false,
+	"token": "8014d6d2a1476fd9f302bab9e23fdaae42e4eeada7fd5cf028d132431b6d3f32c05bd9448a50b5ad7b9a3ae3daa50396cbb76286480459914a57cc6d2e0d9be7821bdcf332b160f973dc593d3700119ddc4d72f40d1774beff816ae5babba3bab837435093ee9490674a49ccebfb3ed3be0971d0d6756831dbe29fae94ae6c07a471add9a59e6fcc83acd6d15db5b020e131cf42a833639fe968478d4a1654e5baa1a3773bb7925ebfb18d66079bc063c74579c8b11c1f1448a2165e8454c053ecff0c3e144f928cb0aef95e62d0a2f53eb64fb44dacb19952ae22e766f3aced9a4f2b5601d9f5633cca2cefe4b24f09b799ff2b8a89f26d22",
+	"monitoringName": null,
+	"monitoringEnabled": false,
+	"tlsAllowUntrusted": false,
+	"preRequestHookId": null,
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5"
+}

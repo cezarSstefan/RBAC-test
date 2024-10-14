@@ -1,0 +1,26 @@
+{
+	"id": "1b37ec1f-90be-ee11-85f9-0022489f935c",
+	"createdAt": "2024-01-29T10:21:12.540Z",
+	"createdBy": "rommel@neptune-software.com",
+	"auth": [
+		{
+			"id": "b0da6473-ceeb-4920-f547-d277f7de082c",
+			"role": "DEF",
+			"apiAuth": "7D852C41-2512-EB11-9FB4-0003FF594662",
+			"authName": "PlanetX Auth (Dev)",
+			"authDesc": ""
+		}
+	],
+	"endpoints": [],
+	"name": "Test",
+	"ver": "24.10.08.0905",
+	"description": null,
+	"version": null,
+	"endpoint": "https://p9latest.neptune-software.cloud/cockpit.html#connectivity-odatasource",
+	"enableProxy": false,
+	"enableIDE": true,
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5",
+	"apiGroup": null,
+	"tlsAllowUntrusted": false,
+	"odataVersion": "v4"
+}

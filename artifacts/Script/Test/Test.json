@@ -1,0 +1,26 @@
+{
+	"id": "d582c1f8-7981-ef11-bdfd-000d3ab845f5",
+	"createdAt": "2024-10-03T11:23:59.333Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [
+		{
+			"id": "BDECDA58-DC6A-4823-9B42-13779C249CBA",
+			"name": "ccar_data",
+			"contextname": "ccar_data"
+		}
+	],
+	"apis": [],
+	"name": "Test",
+	"ver": "24.10.14.1150",
+	"description": null,
+	"folder": "",
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"lastRunSuccessful": true,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "d382c1f8-7981-ef11-bdfd-000d3ab845f5",
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5"
+}

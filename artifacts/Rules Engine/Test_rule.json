@@ -1,0 +1,33 @@
+{
+	"id": "455e1615-5385-ef11-bdfd-000d3ab845f5",
+	"createdAt": "2024-10-08T08:55:36.443Z",
+	"createdBy": "cezar.strugariu@neptune-software.com",
+	"interface": [
+		{
+			"id": "ee52bd56-4bcc-41ad-f7d4-c4682a0cf8cc",
+			"parent": "",
+			"name": "test",
+			"objectType": "string",
+			"description": ""
+		}
+	],
+	"rules": [
+		{
+			"id": "21b51ec2-d4b4-4b07-8a6b-e030254c41dd",
+			"result": "Success",
+			"items": [
+				{
+					"id": "8edef186-cd40-42f3-8d88-ddf8a0fcfd93",
+					"field": "ee52bd56-4bcc-41ad-f7d4-c4682a0cf8cc",
+					"operator": "equal",
+					"value": "1"
+				}
+			]
+		}
+	],
+	"name": "Test_rule",
+	"description": "",
+	"ver": "24.10.08.0856",
+	"package": "eb92ba90-5285-ef11-bdfd-000d3ab845f5",
+	"roles": []
+}
