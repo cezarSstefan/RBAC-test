@@ -5,7 +5,7 @@
 	"git": {
 		"remote": "https://github.com/cezarSstefan/RBAC-test"
 	},
-	"name": "2404-testing-package",
+	"name": "2404-testing-package-import",
 	"description": null,
 	"ver": "24.10.14.1444",
 	"enableCICD": true,
